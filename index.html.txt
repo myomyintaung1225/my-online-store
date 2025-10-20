@@ -82,6 +82,12 @@ document.getElementById('checkoutForm').addEventListener('submit', function(e){
     this.reset();
 });
 </script>
+<div style="text-align:center; margin:20px;">
+  <a href="checkout.html" style="padding:10px 20px; background:#ff7e5f; color:white; border-radius:5px; text-decoration:none; font-weight:bold;">
+    Go to Checkout
+  </a>
+</div>
+
 
 </body>
 </html>
